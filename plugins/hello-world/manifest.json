@@ -1,0 +1,11 @@
+{
+    "name": "Hello world",
+    "id": "hello-world",
+    "type": "plugin",
+    "description": "Test. Does nothing useful whatsoever.",
+    "author": "Dev",
+    "entry": "index.js",
+    "assets": [
+        "index.js"
+    ]
+}
