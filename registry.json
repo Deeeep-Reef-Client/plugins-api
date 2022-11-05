@@ -6,6 +6,13 @@
             "type": "plugin",
             "description": "Test. Does nothing useful whatsoever.",
             "author": "Dev"
+        },
+        {
+            "name": "Space Theme",
+            "id": "space-theme",
+            "type": "theme",
+            "description": "A space custom theme.",
+            "author": "Canned"
         }
     ]
 }
