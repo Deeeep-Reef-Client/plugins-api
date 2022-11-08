@@ -29,13 +29,22 @@ Plugins contributed must be licensed under the [Unlicense](https://unlicense.org
 
 ## Script Plugin  
 
+### Explanation:  
+
+Type:  
+
+- `startup`: Executes code on app startup in index.js  
+- `preload`: Executes code on preload.js start  
+- `game`: Executes in main world after game has loaded. Will have access to game API but will NOT have access to Node  
+
 ```json
 {
     "name": "Your Plugin Name",
     "id": "a-unique-id",
     "description": "Description of your plugin",
     "author": "Your name",
-    "src": "JavaScript source that will be injected into index.js"
+    "type": "startup **OR** preload **OR** game",
+    "src": "JavaScript source that will be executed"
 }
 ```
 
