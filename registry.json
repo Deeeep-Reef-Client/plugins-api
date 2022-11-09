@@ -20,6 +20,13 @@
             "type": "plugin",
             "description": "Testing plugin for the client's developer",
             "author": "Dev"
+        },
+        {
+            "name": "Reefhack",
+            "id": "reefhack",
+            "type": "plugin",
+            "description": "Hacks for DRC",
+            "author": "Pi/Canned"
         }
     ]
 }
