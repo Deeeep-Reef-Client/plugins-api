@@ -35,6 +35,7 @@ Type:
 
 - `startup`: Executes code on app startup in index.js  
 - `preload`: Executes code on preload.js start  
+- `domloaded`: Executes code on DOM content loaded after all DRC scripts have run  
 - `game`: Executes in main world after game has loaded. Will have access to game API but will NOT have access to Node  
 
 ```json
@@ -43,7 +44,7 @@ Type:
     "id": "a-unique-id",
     "description": "Description of your plugin",
     "author": "Your name",
-    "type": "startup **OR** preload **OR** game",
+    "type": "startup **OR** preload **OR** game **OR** domloaded",
     "src": "JavaScript source that will be executed"
 }
 ```
