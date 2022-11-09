@@ -13,6 +13,13 @@
             "type": "theme",
             "description": "A space custom theme.",
             "author": "Canned"
+        },
+        {
+            "name": "Dev Test",
+            "id": "dev-test",
+            "type": "plugin",
+            "description": "Testing plugin for the client's developer",
+            "author": "Dev"
         }
     ]
 }

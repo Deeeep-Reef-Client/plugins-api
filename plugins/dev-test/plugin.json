@@ -1,0 +1,24 @@
+{
+    "name": "Dev Test",
+    "id": "dev-test",
+    "description": "Testing plugin for the client's developer",
+    "author": "Dev",
+    "src": [
+        {
+            "type": "startup",
+            "src": "console.log(\"STARTUP script is working\");"
+        },
+        {
+            "type": "preload",
+            "src": "console.log(\"PRELOAD script is working\");"
+        },
+        {
+            "type": "game",
+            "src": "console.log(\"GAME script is working\");"
+        },
+        {
+            "type": "domloaded",
+            "src": "console.log(\"DOMLOADED script is working\");"
+        }
+    ]
+}
