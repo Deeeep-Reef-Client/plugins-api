@@ -3,6 +3,10 @@
     "id": "hello-world",
     "description": "Test. Does nothing useful whatsoever.",
     "author": "Dev",
-    "type": "startup",
-    "src": "console.log(\"Hello world from Dev\");"
+    "src": [
+        {
+            "type": "startup",
+            "src": "console.log(\"Hello world from Dev\");"
+        }
+    ]
 }
