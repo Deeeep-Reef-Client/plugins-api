@@ -27,6 +27,13 @@
             "type": "plugin",
             "description": "Hacks for DRC",
             "author": "Pi/Canned"
+        },
+        {
+            "name": "Plugin Dev",
+            "id": "plugin-dev",
+            "type": "plugin",
+            "description": "Development tools for building plugins",
+            "author": "Canned"
         }
     ]
 }
