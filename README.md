@@ -4,8 +4,6 @@ DRC plugin repository.
 
 # Contribute a Plugin  
 
-## NOTE: Plugins are NOT IMPLEMENTED yet  
-
 Create a pull request to this repository, containing:  
 
 - Your plugin information in `registry.json`, under `list`  
