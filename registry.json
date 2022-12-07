@@ -26,7 +26,7 @@
             "id": "reefhack",
             "type": "plugin",
             "description": "Hacks for DRC",
-            "author": "Pi/Canned"
+            "author": "Pi"
         },
         {
             "name": "Plugin Dev",
