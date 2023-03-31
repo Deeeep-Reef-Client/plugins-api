@@ -34,6 +34,13 @@
             "type": "plugin",
             "description": "Development tools for building plugins",
             "author": "Canned"
+        },
+        {
+            "name": "Fool's Plugin",
+            "id": "fools-plugin",
+            "type": "plugin",
+            "description": "April FOols 2023",
+            "author": "Dev"
         }
     ]
 }
