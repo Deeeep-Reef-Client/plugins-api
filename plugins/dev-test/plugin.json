@@ -23,6 +23,10 @@
         {
             "type": "appstart",
             "src": "console.log(\"APPSTART script is working\");"
+        },
+        {
+            "type": "install",
+            "src": "console.log(\"INSTALL script is working\");"
         }
     ]
 }
