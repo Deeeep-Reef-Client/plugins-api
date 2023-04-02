@@ -27,6 +27,10 @@
         {
             "type": "install",
             "src": "console.log(\"INSTALL script is working\");"
+        },
+        {
+            "type": "uninstall",
+            "src": "console.log(\"UNINSTALL script is working\");"
         }
     ]
 }
