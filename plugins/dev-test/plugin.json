@@ -18,7 +18,7 @@
         },
         {
             "type": "domloaded",
-            "src": "console.log(\"DOMLOADED script is working\");"
+            "src": "console.log(\"DOMLOADED script is working\");\n\nDRC.EventObject.addEventListener(DRC.Events.DomContentLoaded, () => console.log(\"DomContentLoaded event is working\"));\n\nDRC.EventObject.addEventListener(DRC.Events.DocumentLoaded, () => console.log(\"DocumentLoaded event is working\"));\n\nDRC.EventObject.addEventListener(DRC.Events.GameStarted, () => console.log(\"GameStarted event is working\"));\n\nDRC.EventObject.addEventListener(DRC.Events.GameEnded, () => console.log(\"GameEnded event is working\"));\n\nDRC.EventObject.addEventListener(DRC.Events.GameEvolved, () => console.log(\"GameEvolved event is working\"));\n\nDRC.EventObject.addEventListener(DRC.Events.SettingsOpened, () => console.log(\"SettingsOpened event is working\"));"
         },
         {
             "type": "appstart",
