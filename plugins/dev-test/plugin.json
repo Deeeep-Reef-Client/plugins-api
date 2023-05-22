@@ -31,6 +31,10 @@
         {
             "type": "uninstall",
             "src": "console.log(\"UNINSTALL script is working\");"
+        },
+        {
+            "type": "update",
+            "src": "console.log(\"UPDATE script is working\");"
         }
     ]
 }

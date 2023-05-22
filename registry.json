@@ -19,7 +19,8 @@
             "id": "dev-test",
             "type": "plugin",
             "description": "Testing plugin for the client's developer",
-            "author": "Dev"
+            "author": "Dev",
+            "version": "0.0.1"
         },
         {
             "name": "Reefhack",
