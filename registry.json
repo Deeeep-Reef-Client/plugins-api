@@ -34,7 +34,8 @@
             "id": "plugin-dev",
             "type": "plugin",
             "description": "Development tools for building plugins",
-            "author": "Canned"
+            "author": "Canned",
+            "version": "1.4.0"
         },
         {
             "name": "Fool's Plugin",
