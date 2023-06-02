@@ -43,6 +43,14 @@
             "type": "plugin",
             "description": "April Fools 2023",
             "author": "Dev"
+        },
+        {
+            "name": "Redirect Swapper",
+            "id": "redirect-swapper",
+            "type": "plugin",
+            "description": "Redirect and swap assets",
+            "author": "Dev",
+            "version": "1.0.0"
         }
     ]
 }
