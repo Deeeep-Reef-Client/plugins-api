@@ -17,60 +17,7 @@ Create a pull request to this repository, containing:
 - This is hosted on GitHub Pages, so you can host your assets on
   https://deeeep-reef-client.github.io/plugins-api/[PLUGIN ID]
 
-Plugins contributed must be licensed under the
-[Unlicense](https://unlicense.org).
+Plugins can optionally specify a license, as explained further in the Docs. Plugins without an explicit license will be implicitly licensed under the
+[Unlicense](https://unlicense.org). Include a proprietary license if you wish to do so.
 
-## Plugin Info Template
-
-```json
-{
-  "name": "Your Plugin Name",
-  "id": "a-unique-id",
-  "type": "plugin **OR** theme",
-  "description": "Your plugin description",
-  "author": "Your name :)"
-}
-```
-
-## Script Plugin
-
-### Explanation:  
-
-Src:  
-- An array of Scripts. Scripts should have a type key and source key.  
-
-Type:
-
-- `startup`: Executes code on app startup in index.js
-- `preload`: Executes code on preload.js start
-- `domloaded`: Executes code on DOM content loaded after all DRC scripts have
-  run
-- `game`: Executes in main world after game has loaded. Will have access to game
-  API but will NOT have access to Node
-
-```json
-{
-  "name": "Your Plugin Name",
-  "id": "a-unique-id",
-  "description": "Description of your plugin",
-  "author": "Your name",
-  "src": [
-    {
-      "type": "startup **OR** preload **OR** game **OR** domloaded",
-      "src": "JavaScript code to be executed"
-    }
-  ]
-}
-```
-
-## Themes
-
-If you realised this is the exact format you get when using the built in export
-feature, so you can just paste it in and change its name.
-
-```json
-{
-  "name": "Name of your theme",
-  "src": "CSS source"
-}
-```
+By contributing a Plugin, you agree that the Deeeep.io Reef Client Project's distributing of your Plugin will in no way violate your License, and if not, grant express permission for the Project to do so.
