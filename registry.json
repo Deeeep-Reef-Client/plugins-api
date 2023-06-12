@@ -20,7 +20,8 @@
             "type": "plugin",
             "description": "Testing plugin for the client's developer",
             "author": "Dev",
-            "version": "0.0.1"
+            "version": "0.0.1",
+            "license": "<TEMPLATE_Unlicense>"
         },
         {
             "name": "Reefhack",
