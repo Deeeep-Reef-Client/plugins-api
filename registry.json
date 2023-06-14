@@ -44,7 +44,8 @@
             "id": "fools-plugin",
             "type": "plugin",
             "description": "April Fools 2023",
-            "author": "Dev"
+            "author": "Dev",
+            "license": "<TEMPLATE_GPL-3.0>"
         },
         {
             "name": "Redirect Swapper",
