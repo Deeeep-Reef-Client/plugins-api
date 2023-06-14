@@ -36,7 +36,8 @@
             "type": "plugin",
             "description": "Development tools for building plugins",
             "author": "Canned",
-            "version": "1.5.0"
+            "version": "1.5.0",
+            "license": "<TEMPLATE_GPL-3.0>"
         },
         {
             "name": "Fool's Plugin",
