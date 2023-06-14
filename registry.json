@@ -53,7 +53,8 @@
             "type": "plugin",
             "description": "Redirect and swap assets",
             "author": "Dev",
-            "version": "1.0.0"
+            "version": "1.0.0",
+            "license": "<TEMPLATE_GPL-3.0>"
         }
     ]
 }
