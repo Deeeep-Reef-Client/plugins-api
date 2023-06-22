@@ -20,7 +20,8 @@
             "type": "plugin",
             "description": "Testing plugin for the client's developer",
             "author": "Dev",
-            "version": "0.0.1"
+            "version": "0.0.1",
+            "license": "<TEMPLATE_Unlicense>"
         },
         {
             "name": "Plugin Dev",
@@ -28,14 +29,16 @@
             "type": "plugin",
             "description": "Development tools for building plugins",
             "author": "Canned",
-            "version": "1.5.0"
+            "version": "1.5.0",
+            "license": "<TEMPLATE_GPL-3.0>"
         },
         {
             "name": "Fool's Plugin",
             "id": "fools-plugin",
             "type": "plugin",
             "description": "April Fools 2023",
-            "author": "Dev"
+            "author": "Dev",
+            "license": "<TEMPLATE_GPL-3.0>"
         },
         {
             "name": "Redirect Swapper",
@@ -43,7 +46,8 @@
             "type": "plugin",
             "description": "Redirect and swap assets",
             "author": "Dev",
-            "version": "1.0.0"
+            "version": "1.0.0",
+            "license": "<TEMPLATE_GPL-3.0>"
         }
     ]
 }
