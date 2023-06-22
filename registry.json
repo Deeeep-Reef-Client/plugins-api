@@ -23,13 +23,6 @@
             "version": "0.0.1"
         },
         {
-            "name": "Reefhack",
-            "id": "reefhack",
-            "type": "plugin",
-            "description": "Hacks for DRC",
-            "author": "Pi"
-        },
-        {
             "name": "Plugin Dev",
             "id": "plugin-dev",
             "type": "plugin",
