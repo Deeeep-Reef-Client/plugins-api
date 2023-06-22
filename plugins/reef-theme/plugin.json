@@ -1,0 +1,13 @@
+{
+    "name": "Reef Theme",
+    "src": "\n        div.modal-content {\n            background-color: #1f293780 !important;\n        }\n        span.modal__title {\n            color: #ffffff !important;\n        }\n        div.modal__content {\n            color: #ffffff !important;\n        }\n        span.drc-modal-title {\n            color: #ffffff !important;\n        }\n        div.drc-modal-modal-content {\n            background-color: #1f293780 !important;\n        }\n        body .el-input__wrapper, body .el-textarea__wrapper {\n            background-color: #1f293780 !important;\n        }\n        .animals-container .animals .animal {\n            --tw-bg-opacity: 0.5 !important\n        }\n        .dark .forum-page {\n            --tw-bg-opacity: 0.5 !important\n        }\n        .dark .forum-page .inner .forum-posts .post-summary .forum-post-summary {\n            background-color: #1f293780 !important\n        }\n        .dark .forum-page .inner .forum-posts .post-summary .forum-post-summary:hover {\n            background-color: #1f293780 !important\n        }\n        .dark .forum-post-page .inner {\n            background-color: #1f293780 !important\n        }  \n        div.loading-bar > div {\n            background-color: #ecdc9a !important;\n        }\n        \n            .home-page .home-bg {\n                background-image: url(https://deeeep-reef-client.github.io/website/assets/bgimage.png) !important;\n            }\n            \n        \n            .loading-container {\n                background-image: url(https://deeeep-reef-client.github.io/website/assets/loadingbg.png) !important;\n            }\n            \n        \n                        div.loading-bar > img.ball {\n                            display: block !important;\n                            box-sizing: border-box !important;\n                            background: url(https://deeeep-reef-client.github.io/website/assets/loadingball.png) no-repeat !important;\n                            width: 128px !important;\n                            height: 64px !important;\n                            padding-left: 128px !important;\n                        }\n                        \n        ",
+    "themedata": {
+        "bgImage": "https://deeeep-reef-client.github.io/website/assets/bgimage.png",
+        "loadingBgImage": "https://deeeep-reef-client.github.io/website/assets/loadingbg.png",
+        "modalBgColour": "#1f2937",
+        "modalTextColour": "#ffffff",
+        "modalTransparency": "5",
+        "loadingIconImage": "https://deeeep-reef-client.github.io/website/assets/loadingball.png",
+        "loadingBarColour": "#ecdc9a"
+    }
+}
