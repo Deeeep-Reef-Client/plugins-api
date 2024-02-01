@@ -50,6 +50,15 @@
             "license": "<TEMPLATE_GPL-3.0>"
         },
         {
+            "name": "Background Music",
+            "id": "background-music",
+            "type": "plugin",
+            "description": "Plays background music",
+            "author": "Dev",
+            "version": "1.0.0",
+            "license": "<TEMPLATE_GPL-3.0>"
+        },
+        {
             "name": "Reef Theme",
             "id": "reef-theme",
             "type": "theme",
