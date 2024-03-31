@@ -41,6 +41,15 @@
             "license": "<TEMPLATE_GPL-3.0>"
         },
         {
+            "name": "Fool's Plugin 2024",
+            "id": "fools-plugin-2024",
+            "type": "plugin",
+            "description": "April Fools 2024",
+            "author": "Dev",
+            "version": "1.0.0",
+            "license": "<TEMPLATE_GPL-3.0>"
+        },
+        {
             "name": "Redirect Swapper",
             "id": "redirect-swapper",
             "type": "plugin",
